@@ -1,0 +1,21 @@
+.footer {
+    background-color: #f5f5f5;
+    padding: 2rem 0;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  .footer p {
+    font-size: 0.8rem;
+    color: #999;
+  }
+  
+  .footer .list-inline {
+    margin-top: 1rem;
+  }
+  
+  .footer .list-inline li {
+    display: inline-block;
+    margin-right: 1rem;
+  }
+  
